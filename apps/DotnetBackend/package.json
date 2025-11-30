@@ -1,0 +1,7 @@
+{
+  "name": "dotnet-api",
+  "private": true,
+  "scripts": {
+    "dev": "dotnet run"
+  }
+}
